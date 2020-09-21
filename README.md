@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m student of SMK Telkom Malang from Tulungagung, and living in Malang for a while. thank you for coming to see my github page.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gagassurya19&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
@@ -7,33 +8,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagassurya19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gagassurya19&repo=sequelize" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gagassurya19&repo=siakad-absen" />
-</a>
-
-
-
-
-
-<!--
-**gagassurya19/gagassurya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎:
+- my blog [gagassurya19.github.io](https://gagassurya19.github.io)
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: email, or Tweet me at [Twitter/Gagassurya19](https://twitter.com/Gagassurya19) for quick response.
