@@ -14,5 +14,5 @@ I’m student of SMK Telkom Malang from Tulungagung, and living in Malang for a 
 - my blog [gagassurya19.github.io](https://gagassurya19.github.io)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: email, or Tweet me at [Twitter/Gagassurya19](https://twitter.com/Gagassurya19) for quick response.
-#
+
 ![](https://komarev.com/ghpvc/?username=gagassurya19&color=green)
