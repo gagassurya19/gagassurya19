@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m student of SMK Telkom Malang from Tulungagung, and living in Malang for a while. thank you for coming to see my github page.
+Thank you for coming to see my github page.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gagassurya19&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
