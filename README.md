@@ -1,6 +1,10 @@
 ### Hi there 👋
 Thank you for coming to see my github page.
 
+<a href="https://github.com/gagassurya19">
+<img alt="yasirrzk's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gagassurya19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
