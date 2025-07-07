@@ -6,21 +6,8 @@
   <img alt="gagassurya19's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gagassurya19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
-<h2>Languages and Tools:</h2>
-<div class="languages">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
-</div>
-
 <p>
-  - My blog: <a href="https://gagassurya19.github.io" target="_blank">gagassurya19.github.io</a><br>
+  - My blog: <a href="https://gagas.me" target="_blank">gagas.me</a><br>
   - 💬 Ask me about anything, I am happy to help<br>
   - 📫 How to reach me: gagassurya19@gmail.com
 </p>
