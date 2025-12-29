@@ -2,12 +2,12 @@
 <h1>Hi there 👋</h1>
 <p>Thank you for coming to see my GitHub page.</p>
 
-<a href="https://github.com/gagassurya19">
+<!-- <a href="https://github.com/gagassurya19">
   <img alt="gagassurya19's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gagassurya19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+</a> -->
 
 <p>
-  - My blog: <a href="https://gagas.me" target="_blank">gagas.me</a><br>
+  - My portofolio website: <a href="https://gagas.me" target="_blank">gagas.me</a><br>
   - 💬 Ask me about anything, I am happy to help<br>
   - 📫 How to reach me: gagassurya19@gmail.com
 </p>
